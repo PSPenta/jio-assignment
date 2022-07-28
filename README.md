@@ -8,9 +8,9 @@
 	 npm run update:packages ( If wants to work with latest version of packages )
 	```
 2. Copy the .env.example file to the .env file and set up the variables
-3. To run tests
+3. To run the script, run the following command
 	```bash
-	npm test
+	node src/scripts/script.js
 	```
 4. Start the application
 	```bash
