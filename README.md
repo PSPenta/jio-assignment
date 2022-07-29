@@ -3,7 +3,7 @@
 ## Execution Setup :-
 1. Clone the repository and install dependencies
 	 ```bash
-	 git clone https://github.com/PSPenta/node-fastify-boilerplate.git
+	 git clone https://github.com/PSPenta/jio-assignment.git
 	 npm install ( If wants to work with existing version of packages )
 	 npm run update:packages ( If wants to work with latest version of packages )
 	```
